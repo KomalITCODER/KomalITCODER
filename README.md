@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KomalITCODER
 - 👀 I’m interested in web development, Data 
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning GO and Python
+- 💞️ I’m looking to collaborate on any open source collaborations
 - 📫 How to reach me ...
 
 <!---
